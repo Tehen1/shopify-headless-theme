@@ -1,7 +1,7 @@
 {
   "current": {
     "storefront_hostname": "electrocheaps.myshopify.com",
-    "custom_redirects": "Shopify path > Storefront path",
+    "custom_redirects": "\/account\/login > \/login\n\/account\/register > \/register\n\/account\/reset > \/reset-password\n\/account\/activate > \/activate-account",
     "multipass_login": true,
     "content_for_index": [
 
