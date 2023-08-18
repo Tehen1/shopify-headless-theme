@@ -2,8 +2,26 @@
   "current": {
     "storefront_hostname": "electrocheaps.myshopify.com",
     "custom_redirects": "Shopify path > Storefront path",
+    "multipass_login": true,
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "5059203847231188605": {
+        "type": "shopify:\/\/apps\/smart-product-filter-search\/blocks\/app-embed\/5cc1944c-3014-4a2a-af40-7d65abc0ef73",
+        "disabled": false,
+        "settings": {
+          "productGridSelector": "",
+          "customJs": "",
+          "customCss": ""
+        }
+      },
+      "5439026248262864547": {
+        "type": "shopify:\/\/apps\/preorder-globo-back-in-stock\/blocks\/app-embed\/e547a0ad-8212-4bcc-b02f-761faa9b8af2",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
   }
 }
