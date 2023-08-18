@@ -1,0 +1,9 @@
+{
+  "current": {
+    "storefront_hostname": "electrocheaps.myshopify.com",
+    "custom_redirects": "Shopify path > Storefront path",
+    "content_for_index": [
+
+    ]
+  }
+}
